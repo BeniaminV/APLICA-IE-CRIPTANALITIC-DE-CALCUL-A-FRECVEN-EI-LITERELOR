@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1467692682 source:c:\users\ben\desktop\licenta\accfl\accfl\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<ctype.h>
+	<stdlib.h>
+	<bitset>
+	<algorithm>
+
